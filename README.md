@@ -1,5 +1,5 @@
 # Prem's Mini Github Project
-![Github Logo](https://github.com/prembhardwaj/Mini-Lesson-9.4/blob/main/Octocat.png)
+![Github Logo](https://github.com/prembhardwaj/Mini-Lesson-9.4/blob/main/octocat-19.png)
 
 >## Table of Contents Example
 * [About the Project](#projabout)
