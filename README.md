@@ -1,5 +1,5 @@
 # Prem's Mini Github Project
-![github/Mini-Lesson 9.4/octocat-19.png](octocat-19.png "github Logo")
+![Github Logo](https://github.com/prembhardwaj/Mini-Lesson-9.4/Octocat.png "Github logo")
 
 >## Table of Contents Example
 * [About the Project](#projabout)
